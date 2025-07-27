@@ -1,4 +1,4 @@
-a=29
+a=27
 b=9
 if a/b==3:
     print("it is divisibe by a")

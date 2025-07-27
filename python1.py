@@ -1,4 +1,4 @@
-a=1
+a=10
 b=2
 if a<b:
     print("condition is correct")
